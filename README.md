@@ -10,7 +10,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=helfese&theme=transparent&layout=donut-vertical&hide_border=true&hide_title=true&hide_progress=true&text_color=0969da"/></div>
 
-<h3 align="center">Skills</h3>
+<h3 align="center">S K I L L S</h3>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/><img width="15"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/><img width="15"/>
