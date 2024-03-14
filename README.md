@@ -31,6 +31,7 @@
 <img src="https://i.ibb.co/bB3h1Z7/images-removebg-preview.png" height="45"/><img width="15"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="45"/><img width="15"/>
 <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="45"/><img width="15"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" height="45"/><img width="15"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
 </div><br>
 
