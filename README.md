@@ -14,8 +14,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/><img width="15"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/><img width="15"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/><img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/><img width="15"/>
 <img src="https://taiwebs.com/upload/icons/toad-data-modeler220-220.png" height="45"/><img width="15"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/><img width="15"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" height="45"/><img width="15"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" height="40"/><img width="15"/>
 <img src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg" height="45"/><img width="15"/>
@@ -23,14 +23,15 @@
 </div><br>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="45"/><img width="15"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/><img width="15"/>
 <img src="https://nasm-tutorial.akash.website/img/nasm-logo.png" height="45"/><img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/><img width="15"/>
 <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" height="45"/><img width="10"/>
 <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" height="45"/><img width="15"/>
 <img src="https://i.ibb.co/bB3h1Z7/images-removebg-preview.png" height="45"/><img width="15"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="45"/><img width="15"/>
 <img src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" height="45"/><img width="15"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" height="45"/><img width="15"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="45"/><img width="15"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
 </div><br>
 
