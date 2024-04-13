@@ -18,6 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/><img width="15"/>                                                                                             <!-- C -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/2048px-Bash_Logo_Colored.svg.png" height="45"/><img width="15"/>                                                <!-- Bash -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png" height="40"/><img width="15"/>                                                        <!-- Markdown -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="45"/><img width="15"/>                                                                            <!-- GitLab -->
 <img src="https://starbeamrainbowlabs.com/images/logos/swi-prolog.svg" height="45"/><img width="15"/>                                                                                                     <!-- Prolog -->
 <img src="https://i.ibb.co/sQXMqsn/png-transparent-microsoft-windows-logo-art-microsoft-servers-windows-server-2016-computer-servers-wi.png" height="40"/>                                                <!-- Windows Server -->
 </div><br>
@@ -37,7 +38,7 @@
 </div><br>
                                                                                                                                                                                                           <!-- 
                                                                                                                                                                                                                VMware Workstation
-                                                                                                                                                                                                               GitLab
+                                                                                                                                                                                                               
                                                                                                                                                                                                                SQL Server Management Studio
                                                                                                                                                                                                                Neovim
                                                                                                                                                                                                            -->
