@@ -11,18 +11,18 @@
 
 <h3 align="center">S K I L L S</h3>
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45"/><img width="10"/>                                                                                                <!-- MySQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45"/><img width="15"/>                                                                                                <!-- MySQL -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" height="45"/><img width="15"/>                                                                   <!-- Power BI -->
 <img src="https://i.ibb.co/3kt9R7M/logo-removebg-preview.png" height="45"/><img width="15"/>                                                                                                                                <!-- SQL Server Management Studio -->
 <img src="https://taiwebs.com/upload/icons/toad-data-modeler220-220.png" height="45"/><img width="15"/>                                                                                                                     <!-- Toad Data Modeler -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/><img width="15"/>                                                                                                       <!-- Linux -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/><img width="15"/>                                                                                                     <!-- Python -->
-<img src="https://nasm-tutorial.akash.website/img/nasm-logo.png" height="45"/><img width="15"/>                                                                                                                             <!-- Assembly -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/><img width="15"/>                                                                                                               <!-- C -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="45"/><img width="15"/>                                                                                                  <!-- Rust -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/><img width="15"/>                                                                                                       <!-- Linux -->
 <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" height="45"/><img width="15"/>                                                                                                                    <!-- Arch -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1024px-Vmware_workstation_16_icon.svg.png" height="45"/><img width="15"/>                                                <!-- VMware Workstation -->
-<img src="https://i.ibb.co/sQXMqsn/png-transparent-microsoft-windows-logo-art-microsoft-servers-windows-server-2016-computer-servers-wi.png" height="40"/>                                                                  <!-- Windows Server -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vmware_workstation_16_icon.svg/1024px-Vmware_workstation_16_icon.svg.png" height="45"/><img width="10"/>                                                <!-- VMware Workstation -->
+<img src="https://i.ibb.co/sQXMqsn/png-transparent-microsoft-windows-logo-art-microsoft-servers-windows-server-2016-computer-servers-wi.png" height="40"/><img width="10"/>                                                 <!-- Windows Server -->
+<img src="https://nasm-tutorial.akash.website/img/nasm-logo.png" height="45"/>                                                                                                                                              <!-- Assembly -->
 </div><br>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/><img width="15"/>                                                                                               <!-- C++ -->
