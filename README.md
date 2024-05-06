@@ -45,7 +45,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" height="45"/><img width="15"/>                                                                                        <!- R -> 
 <img src="https://i.postimg.cc/KvHfj7kb/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f6c61746578.png" height="32"/>                                                             <!- LaTeX ->
 <!- MATLAB ->
- <!- more ->
+<!- more ->
  -->
 </div><br>
 
