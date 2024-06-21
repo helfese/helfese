@@ -1,6 +1,8 @@
- <p align="center">
+<!--
+<p align="center">
   <a href="https://github.com/helfese"><img src="https://readme-typing-svg.demolab.com/?lines=-.-+.-+.-.+-..+.-+...+....+.+...-&center=true&color=0969da"/></a>
 </p>
+-->
 
 <div align="center">
   <!--<a href="https://www.youtube.com/@Helfese" target="blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30"/></a>-->
@@ -30,7 +32,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/><img width="16"/>                                                                                                           <!-- Git -->
 <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" height="45"/><img width="16"/>                                                                                                                    <!-- Arch -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/><img width="20"/>                                                                                                       <!-- HTML -->
-<img src="https://nasm-tutorial.akash.website/img/nasm-logo.png" height="50"/><img width="15"/>                                                                                                                             <!-- Assembly -->
+<img src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png" height="50"/><img width="15"/>                                                                                             <!-- Assembly -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45"/><img width="15"/>                                                                                                  <!-- CSS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/><img width="15"/>                                                                                                       <!-- Linux -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="45"/><img width="15"/>                                                                                              <!-- GitLab -->
